@@ -27,6 +27,9 @@ Mobile
 
 Get your success with me. Looking forward to working with you!
 
+
 E-Mail: irina880011@gmail.com
+
 Telegram: https://t.me/irinesh0516
 
+Linkedin: https://linkedin.com/in/irinesh0516
