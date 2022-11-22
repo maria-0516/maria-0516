@@ -351,12 +351,12 @@ export function Hero() {
         <div className="lg:grid lg:grid-cols-12 lg:gap-x-8 lg:gap-y-20">
           <div className="relative z-10 mx-auto max-w-2xl lg:col-span-7 lg:max-w-none lg:pt-6 xl:col-span-6">
             <h1 className="text-4xl font-medium tracking-tight text-gray-900">
-              Invest at the perfect time.
+              Irina's skillful website design
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              By leveraging insights from our network of industry insiders,
-              you’ll know exactly when to buy to maximize profit, and exactly
-              when to sell to avoid painful losses.
+              If you want my web development skills, please contact me<br/>
+              Email: <a href="mailto: irina880011@gmail.com"><b>irina880011@gmail.com</b></a> <br/>
+              Telegram: <a href="https://t.me/irinesh0516"><b>https://t.me/irinesh0516</b></a>
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <AppStoreLink />
