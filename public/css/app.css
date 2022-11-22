@@ -1,0 +1,181 @@
+/*
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#HirePurchaseBlocks > div:not(:first-child), #CreditCardBlocks > div:not(:first-child), #RenterBlocks > div:not(:first-child) {
+    border-top: solid 1px rgba(209, 213, 219, var(--tw-border-opacity));
+    margin-top: 0.75rem;
+    padding-top: 0.25rem; /* the form input has 0.25rem top margin which is added to this */
+}
+
+html,
+body {
+    font-size: 16px;
+}
+
+.button {
+    @apply border mt-1 rounded-md border-gray-300 shadow-sm;
+}
+
+#sidebar .item-container .subitems {
+    display: none;
+    padding-left: 20px;
+}
+
+#sidebar .item-container .arrow {
+    transition: .3s;
+}
+
+#sidebar .item-container.expanded .subitems {
+    display: block;
+}  
+
+#sidebar .item-container.expanded .arrow {
+    transform: rotate(180deg)
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a.text-white:hover {
+    color: #fff;
+}
+
+table.customized-main {
+    min-width: 100%;
+    width: 100%;
+    border-radius: 0.5rem;
+    --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-border-opacity: 1;
+    border-color: rgba(229, 231, 235, var(--tw-border-opacity));
+    border-bottom-width: 1px;
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+}
+
+table.customized-main th {
+    --tw-text-opacity: 1;
+    color: rgba(107, 114, 128, var(--tw-text-opacity));
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    text-align: left;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
+}
+
+table.customized-main tbody,
+table.customized-main tbody > :not([hidden]) ~ :not([hidden]) {
+    --tw-divide-opacity: 1;
+    border-color: rgba(229, 231, 235, var(--tw-divide-opacity));
+    --tw-divide-y-reverse: 0;
+    border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
+    border-bottom-width: calc(1px * var(--tw-divide-y-reverse));
+}
+
+table.customized-main tbody {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+}
+
+table.customized-main td {
+    --tw-text-opacity: 1;
+    color: rgba(17, 24, 39, var(--tw-text-opacity));
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    white-space: nowrap;
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+}
+/* The switch - the box around the slider */
+.toggler {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+/* Hide default HTML checkbox */
+.toggler input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+/* The slider */
+.toggler .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #4f586b;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.toggler .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.toggler input:checked + .slider {
+    background-color: #00ca80;
+}
+.toggler .slider:after {
+    content: '';
+    display: block;
+    background-image: url('../img/svg/times-solid.svg');
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .4s;
+}
+.toggler input:checked + .slider:after {
+    background-image: url('../img/svg/check-solid-white.svg');
+    right: unset;
+    left: 10px;
+}
+.toggler input:focus + .slider {
+    box-shadow: 0 0 1px #00ca80;
+}
+.toggler input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+/* Rounded sliders */
+.toggler .slider.round {
+    border-radius: 34px;
+}
+.toggler .slider.round:before {
+    border-radius: 50%;
+}
