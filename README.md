@@ -17,7 +17,7 @@ Web
 * Google Cloud functions, Firestore, firebase and cloud storage
 * developing REST APIs with NodeJS and Express.
 * modern ES5, ES6 standards
-* JavaScript, TypeScript, C++, Rust, Solidity, Blockchain, Solidity, Solana
+* Golang, JavaScript, TypeScript, C++, Rust, Solidity, Blockchain, Solidity, Solana
 * MongoDB, MySQL, GraphQL, DynamoDB PostgreSQL
 
 Mobile
