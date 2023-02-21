@@ -1,4 +1,4 @@
-# Irina Neshataeva
+# Snowball Rabbit
 > Blockchain || Fullstack Web Development
 
 Thank you for your visiting my profile.
