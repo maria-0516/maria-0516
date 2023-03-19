@@ -39,5 +39,3 @@ Mobile
 * Software Architecture : C/C++/C#/Java/Python
 
 Get your success with me. Looking forward to working with you!
-
-
