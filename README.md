@@ -1,5 +1,18 @@
-# Snowball Rabbit
+### Snowball Rabbit
 > Blockchain || Fullstack Web Development
+---
+
+<img src="/readme.svg" alt="readme" align="right" />
+
+- ⛳ I'm from Canada
+- 🔨 I’m currently working as a developer of [Deamtest Team](https://deamtest.com)
+- 💻 I'm currently in love with Golang, Blockchain and Typescript
+- 💬 Telegram [telegram](https://t.me/rabbit0516)
+- 📨 Skype [skype](live:.cid.ec35550a867087a4)
+- 📃 Linkedin: [https://linkedin.com/in/irinesh0516](https://www.linkedin.com/in/rabbit0516/)
+- 📭 E-Mail: irina880011@gmail.com
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 Thank you for your visiting my profile.
 
@@ -28,8 +41,3 @@ Mobile
 Get your success with me. Looking forward to working with you!
 
 
-E-Mail: irina880011@gmail.com
-
-Telegram: [https://t.me/irinesh0516](https://t.me/rabbit0516)
-
-Linkedin: [https://linkedin.com/in/irinesh0516](https://www.linkedin.com/in/rabbit0516/)
