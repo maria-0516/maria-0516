@@ -4,10 +4,9 @@
 
 <img src="./public/readme.svg" alt="readme" align="right" />
 
-- ⛳ I'm from Canada
 - 🔨 I’m currently working as a developer of [Deamtest Team](https://deamtest.com)
 - 💻 I'm currently in love with Golang, Blockchain and Typescript
-- 💬 Telegram [telegram](https://t.me/rabbit0516)
+- 💬 Telegram [telegram](https://t.me/rabbit516)
 - 📨 Skype [skype](live:.cid.ec35550a867087a4)
 - 📃 Linkedin: [https://linkedin.com/in/irinesh0516](https://www.linkedin.com/in/rabbit0516/)
 - 📭 E-Mail: irina880011@gmail.com
