@@ -20,7 +20,7 @@
 
 ###
 
-<h2>About me</h2>
+<h2 align="center">About me</h2>
 
 <div align="center">
   <img src="./public/skills.svg" alt="skills" height="200" />
