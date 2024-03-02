@@ -10,7 +10,7 @@
   </h2>
   
   <div align="center">
-    <a href="live:.cid.ec35550a867087a4" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <a href="https://join.skype.com/invite/qKUmE49zaScB" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://t.me/mariamayer0516" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
