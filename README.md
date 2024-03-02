@@ -1,40 +1,81 @@
-### Snowball Rabbit
-> Blockchain || Fullstack Web Development
----
+###
 
-<img src="./public/readme.svg" alt="readme" align="right" />
+<h1 align="center">Full Stack Developer expertised in Blockchain </h1>
 
-- 🔨 I’m currently working as a developer of [Deamtest Team](https://deamtest.com)
-- 💻 I'm currently in love with Golang, Blockchain and Typescript
-- 💬 Telegram [telegram](https://t.me/rabbit516)
-- 📨 Skype [skype](live:.cid.ec35550a867087a4)
-- 📃 Linkedin: [https://linkedin.com/in/irinesh0516](https://www.linkedin.com/in/rabbit0516/)
-- 📭 E-Mail: irina880011@gmail.com
+<div align="center">
+  <h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+      How to reach me
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+  
+  <div align="center">
+    <a href="live:.cid.ec35550a867087a4" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/mariamayer0516" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/maria_zhang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  </div>
+</div>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+###
 
-Thank you for your visiting my profile.
+<h2>About me</h2>
 
-I am a passionate web developer who has been programming since grade school.
-Having completed a bachelor's degree in computer science, I spent several years working for personal company, mostly developing web applications.
-I am available to work full-time and to change my time zone to reach client goals. As well as this, I will maintain client trust.
-It is not easy to maintain trust with clients to everyone, but I will try my best to maintain the relationship.
+<div align="center">
+  <img src="./public/skills.svg" alt="skills" height="200" />
+</div>
 
-My abilities:
+###
 
-Web
-* CSS3, HTML5, Bootstrap, MUI Tailwindcss
-* React.js, Node.js, AngularJS, Vue.js, Nextjs
-* PHP framework (Code Igniter, Laravel)
-* Google Cloud functions, Firestore, firebase and cloud storage
-* developing REST APIs with NodeJS and Express.
-* modern ES5, ES6 standards
-* Golang, JavaScript, TypeScript, C++, Rust, Solidity, Blockchain, Solidity, Solana
-* MongoDB, MySQL, GraphQL, DynamoDB PostgreSQL
+<h2 align="center">Languages</h2>
 
-Mobile
-* Frontend : React Native/Flutter for Android & iPhone & iPad
-* Backend : Laravel/Django/Flask/Node/Firebase
-* Software Architecture : C/C++/C#/Java/Python
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,solidity,html,css,sass,py,java,cpp,c,powershell&perline=7" />
+</div>
 
-Get your success with me. Looking forward to working with you!
+###
+
+###
+
+<h2 align="center">Frameworks and Libraries</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,express,jest,bootstrap,tailwind,django,jquery,qt&perline=7"/>
+</div>
+
+###
+
+<h2 align="center">Services</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,nginx,docker,fastapi,heroku&perline=7" />
+</div>
+
+###
+
+<h2 align="center">Databases</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite,rabbitmq,supabase,scala&perline=7" />
+</div>
+
+###
+
+<h2 align="center">Development Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=atom,idea,postman,vim,visualstudio,vscode&perline=7" />
+</div>
+
+###
+
+<h2 align="center">Collaborate</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,stackoverflow&perline=7" />
+</div>
+
+###
