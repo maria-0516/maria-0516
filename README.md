@@ -2,7 +2,7 @@
 
 <h1 align="center">Full Stack Developer expertised in Blockchain </h1>
 
-<div align="center">
+<!-- <div align="center">
   <h2>
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
       How to reach me
@@ -16,11 +16,11 @@
     &nbsp;&nbsp;
     <a href="https://discord.gg/maria_zhang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
-</div>
+</div> -->
 
 ###
 
-<h2 align="center">About me</h2>
+<!-- <h2 align="center">About me</h2> -->
 
 <div align="center">
   <img src="./public/skills.svg" alt="skills" height="200" />
