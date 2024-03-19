@@ -75,7 +75,7 @@ export function Footer() {
             </Button>
           </form>
           <p className="mt-6 text-sm text-gray-500 md:mt-0">
-            If you want my skills, please contact email: irina880011@gmail.com telegram: https://t.me/irinesh0516
+            If you want my skills, please contact telegram: https://t.me/tzztson
           </p>
         </div>
       </Container>
