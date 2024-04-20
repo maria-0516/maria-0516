@@ -352,7 +352,11 @@ export function Hero() {
           <div className="relative z-10 mx-auto max-w-2xl lg:col-span-7 lg:max-w-none lg:pt-6 xl:col-span-6">
             <h1 className="text-4xl font-medium tracking-tight text-gray-900">Pocket</h1>
             <p className="mt-6 text-lg text-gray-600">
-              If you want my web development skills, please contact me<br/>
+            I'm all in for working full-time and can even adjust my sleep schedule to match yours if needed (I'm a night owl anyway). Trust me, keeping clients happy is like keeping a plant alive - it takes effort but it's totally worth it.
+            <br />
+            I've been coding since before I knew what "coding" meant. So, working with remote clients using agile methodologies is like second nature to me. It's like riding a bike, except the bike is a computer and the road is the internet.
+            <br />
+            Let's team up and make some awesome software together!
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <AppStoreLink />
